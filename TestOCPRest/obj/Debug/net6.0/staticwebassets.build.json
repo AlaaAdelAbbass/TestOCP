@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4yIJ/o5nZzZnWFxPyjjpM1LIMds3v6ezBkYnrzPnXkA=",
+  "Source": "TestOCPRest",
+  "BasePath": "_content/TestOCPRest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
